@@ -34,7 +34,7 @@ nav a:hover {
 			var(--second-color) 30%,
 			transparent
 		),
-		url('./assets/images/hero-img.jpg');
+		url('/too-good-to-waste/assets/images/hero-img.jpg');
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
