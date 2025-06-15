@@ -97,7 +97,7 @@ nav a:hover {
 }
 
 .about-us-icon {
-	width: 16px;
+	width: 20px;
 }
 
 footer {
@@ -117,4 +117,10 @@ footer {
 
 .ico:hover {
 	opacity: 0.8;
+}
+
+#connect-us .text-center {
+	margin-top: 16px;
+	color: var(--primary-color);
+	font-size: 24px;
 }
